@@ -1,8 +1,8 @@
-# Wheelie for XOXO
+# Web Friends Wheelie
 
 This is an adapation of [WeAllJS](http://wealljs.org)'s [Wheelie Slack app](https://github.com/WeAllJS/wheelie-slack-app).
 
-The /mods command replaces /admin to keep in line with XOXO's terminology, and the bot's text has been updated for how XOXO's Slack instance uses private channels. XOXO does not use the signup part of the bot.
+The /mods command replaces /admin, and the bot's text has been updated for how we use private channels.
 
 The original README is below:
 
